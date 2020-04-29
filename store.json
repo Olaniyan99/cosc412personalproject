@@ -1,0 +1,64 @@
+[
+    {
+      "id": 0,
+      "productName": "Fresh Avocados",
+      "image": "🥑",
+      "from": "Spain",
+      "nutrients": "Vitamin B, Vitamin K",
+      "quantity": "4 🥑",
+      "price": "$6.50",
+      "description": "A ripe Avacado"
+    },
+
+    {
+      "id": 1,
+      "productName": "Cheese",
+      "image": "🧀",
+      "from": "Portugal",
+      "nutrients": "Vitamin A, Calcium",
+      "quantity": "250g",
+      "price": "$5.00",
+      "description": "Cheese"
+    },
+
+    {
+      "id": 2,
+      "productName": "Broccoli",
+      "image": "🥦",
+      "nutrients": "Vitamin C, Vitamin K",
+      "quantity": "3 🥦",
+      "price": "$5.50",
+      "description": "Broccoli"
+    },
+
+    {
+      "id": 3,
+      "productName": "Baby Carrots",
+      "image": "🥕",
+      "nutrients": "Vitamin A, Vitamin K",
+      "quantity": "20 🥕",
+      "price": "$3.00",
+      "description": "carrot"
+    },
+
+    {
+      "id": 4,
+      "productName": "corn",
+      "image": "🌽",
+      "nutrients": "Vitamin C, Magnesium",
+      "quantity": "2 🌽",
+      "price": "$2.00",
+      "description": "corn"
+    },
+
+    {
+        "id": 5,
+        "productName": "grape",
+        "image": "🍇",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "6 🍇",
+        "price": "$1.80",
+        "description": "grape"
+      }
+  ]
+  
