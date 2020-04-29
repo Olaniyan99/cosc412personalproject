@@ -62,7 +62,7 @@ const server = http.createServer((req, res) =>{
     }
 });
 
-server.listen(3003, () => {
+server.listen(3000, () => {
     console.log('app is listenting on port 3000');
 });
 
