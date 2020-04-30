@@ -59,6 +59,24 @@
         "quantity": "6 🍇",
         "price": "$1.80",
         "description": "grape"
+      },
+      {
+        "id": 6,
+        "productName": "Orange",
+        "image": "🍊",
+        "nutrients": "Vitamin C, Vitamin A",
+        "quantity": "10 🍊",
+        "price": "$1.99",
+        "description": "This a very juicy organic orange"
+      },
+      {
+        "id": 7,
+        "productName": "Apples",
+        "image": "🍎🍏",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "25 🍎🍏",
+        "price": "$2.05",
+        "description": "Apples"
       }
   ]
   
