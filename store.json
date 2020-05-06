@@ -9,7 +9,6 @@
       "price": "$6.50",
       "description": "A ripe Avacado"
     },
-
     {
       "id": 1,
       "productName": "Cheese",
@@ -20,7 +19,6 @@
       "price": "$5.00",
       "description": "Cheese"
     },
-
     {
       "id": 2,
       "productName": "Broccoli",
@@ -30,7 +28,6 @@
       "price": "$5.50",
       "description": "Broccoli"
     },
-
     {
       "id": 3,
       "productName": "Baby Carrots",
@@ -40,25 +37,23 @@
       "price": "$3.00",
       "description": "carrot"
     },
-
     {
       "id": 4,
-      "productName": "corn",
+      "productName": "Corn",
       "image": "🌽",
       "nutrients": "Vitamin C, Magnesium",
       "quantity": "2 🌽",
       "price": "$2.00",
       "description": "corn"
     },
-
     {
         "id": 5,
-        "productName": "grape",
+        "productName": "Grape",
         "image": "🍇",
         "nutrients": "Vitamin C, Vitamin K",
         "quantity": "6 🍇",
         "price": "$1.80",
-        "description": "grape"
+        "description": "juicy grapes"
       },
       {
         "id": 6,
@@ -76,7 +71,7 @@
         "nutrients": "Vitamin C, Vitamin K",
         "quantity": "25 🍎🍏",
         "price": "$2.05",
-        "description": "Apples"
+        "description": "This is an organic juicy apple, These apples are freshly picked directly from the apple tree. It is in the species Malus domestica in the rose family Rosaceae. Nutrition: One serving, or one medium apple, provides about 95 calories, 0 gram fat, 1 gram protein, 25 grams carbohydrate, 19 grams sugar (naturally occurring), and 3 grams fiber."
       }
   ]
   
