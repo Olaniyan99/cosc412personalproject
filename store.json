@@ -7,7 +7,7 @@
       "nutrients": "Vitamin B, Vitamin K",
       "quantity": "4 🥑",
       "price": "$6.50",
-      "description": "A ripe Avacado"
+      "description": "Organic Hass Avocado are a medium sized avocado with a good flavour, they are almost black when ripe and have a pebbly textured skin. It has an oil content of 19%. Avocados are highly prized for their incredibly nutritious monounsaturated oil, containing omega-3, vitamins A and E and have good levels of the B vitamins. For more information on avocados, their health benefits and some great recipes simply"
     },
     {
       "id": 1,
@@ -17,7 +17,7 @@
       "nutrients": "Vitamin A, Calcium",
       "quantity": "250g",
       "price": "$5.00",
-      "description": "Cheese"
+      "description": "Eni's Farm award winning Mature Cheddar cheese is carefully matured for ten to fourteen months under controlled conditions, to produce a full flavoured farmhouse cheese with a firm and silky texture."
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "nutrients": "Vitamin C, Vitamin K",
       "quantity": "3 🥦",
       "price": "$5.50",
-      "description": "Broccoli"
+      "description": "Broccoli contains a compound that can help fight against the bacteria that causes peptic ulcers. It has also been shown in studies to reduce the risk of coronary heart disease and is being studied (along with cauliflower and cabbage) for its role in cancer prevention. It's also delicious raw or lightly steamed! Broccoli is an excellent source of immune-supportive vitamin C, anti-inflammatory vitamin K, free-radical-scavenging vitamin A (through its concentration of carotenoid phytonutrients), heart-healthy folate, and digestive-health-supporting fibre. It is a very good source of enzyme-activating manganese; muscular-system-supporting potassium, protein, and magnesium; energy-producing vitamin B2, vitamin B6, and phosphorus; and anti-inflammatory omega-3 fatty acids. Additionally, it is a good source of energy-producing vitamin B1, vitamin B3, vitamin B5, and iron; bone-healthy calcium; and immune-supportive zinc and vitamin E"
     },
     {
       "id": 3,
@@ -35,7 +35,7 @@
       "nutrients": "Vitamin A, Vitamin K",
       "quantity": "20 🥕",
       "price": "$3.00",
-      "description": "carrot"
+      "description": "These organic carrots are nutritional heroes, they store a goldmine of nutrients. No other vegetable or fruit contains as much carotene as carrots, which the body converts to vitamin A. This is a truly versatile vegetable and an excellent source of vitamins B and C as well as calcium pectate, an extraordinary pectin fibre that has been found to have cholesterol-lowering properties. Raw carrots are an excellent source of vitamin A and potassium; they contain vitamin C, vitamin B6, thiamine, folic acid, and magnesium. Cooked carrots are an excellent source of vitamin A, a good source of potassium, and contain vitamin B6, copper, folic acid, and magnesium. The high level of beta-carotene is very important and gives carrots their distinctive orange colour."
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@
       "nutrients": "Vitamin C, Magnesium",
       "quantity": "2 🌽",
       "price": "$2.00",
-      "description": "corn"
+      "description": "Butter, salt and a little pepper are all you really need to bring out corn's natural sweetness "
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
         "nutrients": "Vitamin C, Vitamin A",
         "quantity": "10 🍊",
         "price": "$1.99",
-        "description": "This a very juicy organic orange"
+        "description": "Juicy and sweet and renowned for their concentration of vitamin C, organic oranges make the perfect snack and add a special tang to many recipes; it is no wonder that they are one of the most popular fruits in the world. Oranges are an excellent source of vitamin C, a very good source of dietary fibre and a good source of B vitamins, vitamin A, calcium and potassium"
       },
       {
         "id": 7,
